@@ -1,10 +1,8 @@
 /*
- *  Trabalho pratico 1
  *  Sistemas de Informacao
  *  UFG
  *
- *  Alunos:
- *    - Andre Moreira Quirino
+ *  Aluno:
  *    - Guilherme Ferreira Schults
  */
 
